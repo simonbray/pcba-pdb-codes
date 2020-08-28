@@ -1,0 +1,857 @@
+<?xml version="1.0"?>
+<InformationList
+    xmlns="http://pubchem.ncbi.nlm.nih.gov/pug_rest"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://pubchem.ncbi.nlm.nih.gov/pug_rest https://pubchem.ncbi.nlm.nih.gov/pug_rest/pug_rest.xsd"
+>
+  <Information>
+    <AID>1030</AID>
+    <GI>30582681</GI>
+    <GeneID>216</GeneID>
+    <ProteinName>aldehyde dehydrogenase 1 family, member A1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>ALDH1A1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1379</AID>
+    <GI>1669525</GI>
+    <ProteinName>luciferase [Photuris pensylvanica]</ProteinName>
+  </Information>
+  <Information>
+    <AID>1452</AID>
+    <GI>154426292</GI>
+    <GeneID>239</GeneID>
+    <ProteinName>arachidonate 12-lipoxygenase, 12S-type [Homo sapiens]</ProteinName>
+    <GeneSymbol>ALOX12</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1454</AID>
+    <GI>66932916</GI>
+    <GeneID>5594</GeneID>
+    <ProteinName>mitogen-activated protein kinase 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>MAPK1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1457</AID>
+    <GI>44888968</GI>
+    <GeneID>83523</GeneID>
+    <ProteinName>Inositol monophosphatase 1; IMPase 1; IMP 1; Inositol-1(or 4)-monophosphatase 1; Lithium-sensitive myo-inositol monophosphatase A1</ProteinName>
+    <GeneSymbol>Impa1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1458</AID>
+    <GI>10937869</GI>
+    <GeneID>6607</GeneID>
+    <ProteinName>survival motor neuron protein isoform d [Homo sapiens]</ProteinName>
+    <GeneSymbol>SMN2</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1460</AID>
+    <GI>92096784</GI>
+    <GeneID>4137</GeneID>
+    <ProteinName>Microtubule-associated protein tau [Homo sapiens]</ProteinName>
+    <GeneSymbol>MAPT</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1461</AID>
+    <GI>46395496</GI>
+    <GeneID>387129</GeneID>
+    <ProteinName>neuropeptide S receptor isoform A [Homo sapiens]</ProteinName>
+    <GeneSymbol>NPSR1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1468</AID>
+    <GI>92096784</GI>
+    <GeneID>4137</GeneID>
+    <ProteinName>Microtubule-associated protein tau [Homo sapiens]</ProteinName>
+    <GeneSymbol>MAPT</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1469</AID>
+    <GI>189491771</GI>
+    <GeneID>7068</GeneID>
+    <ProteinName>thyroid hormone receptor beta [Homo sapiens]</ProteinName>
+    <GeneSymbol>THRB</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1471</AID>
+    <GI>90903231</GI>
+    <GeneID>3064</GeneID>
+    <ProteinName>huntingtin [Homo sapiens]</ProteinName>
+    <GeneSymbol>HTT</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1479</AID>
+    <GI>189491771</GI>
+    <GeneID>7068</GeneID>
+    <ProteinName>thyroid hormone receptor beta [Homo sapiens]</ProteinName>
+    <GeneSymbol>THRB</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1631</AID>
+    <GI>33286418</GI>
+    <GeneID>5315</GeneID>
+    <ProteinName>pyruvate kinase PKM isoform a [Homo sapiens]</ProteinName>
+    <GeneSymbol>PKM</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1634</AID>
+    <GI>33286418</GI>
+    <GeneID>5315</GeneID>
+    <ProteinName>pyruvate kinase PKM isoform a [Homo sapiens]</ProteinName>
+    <GeneSymbol>PKM</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1688</AID>
+    <GI>90903231</GI>
+    <GeneID>3064</GeneID>
+    <ProteinName>huntingtin [Homo sapiens]</ProteinName>
+    <GeneSymbol>HTT</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>1721</AID>
+    <GI>290753097</GI>
+    <ProteinName>pyruvate kinase [Leishmania mexicana mexicana]</ProteinName>
+  </Information>
+  <Information>
+    <AID>2100</AID>
+    <GI>119393891</GI>
+    <GeneID>2548</GeneID>
+    <ProteinName>lysosomal alpha-glucosidase preproprotein [Homo sapiens]</ProteinName>
+    <GeneSymbol>GAA</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>2101</AID>
+    <GI>496369</GI>
+    <GeneID>2629</GeneID>
+    <ProteinName>glucocerebrosidase [Homo sapiens]</ProteinName>
+    <GeneSymbol>GBA</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>2147</AID>
+    <GI>221046486</GI>
+    <ProteinName>Chain A, Crystal Structure Of The Human 2-oxoglutarate Oxygenase Loc390245</ProteinName>
+  </Information>
+  <Information>
+    <AID>2242</AID>
+    <GI>119393891</GI>
+    <GeneID>2548</GeneID>
+    <ProteinName>lysosomal alpha-glucosidase preproprotein [Homo sapiens]</ProteinName>
+    <GeneSymbol>GAA</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>2326</AID>
+    <GI>194352380</GI>
+    <ProteinName>nonstructural protein 1 [Influenza A virus (A/WSN/1933(H1N1))]</ProteinName>
+  </Information>
+  <Information>
+    <AID>2451</AID>
+    <GI>122920737</GI>
+    <ProteinName>Chain A, Structure Of Giardia Fructose-1,6-biphosphate Aldolase In Complex With Phosphoglycolohydroxamate</ProteinName>
+  </Information>
+  <Information>
+    <AID>2517</AID>
+    <GI>6980812</GI>
+    <ProteinName>Chain A, Human Ape1 Endonuclease With Bound Abasic Dna And Mn2+ Ion</ProteinName>
+  </Information>
+  <Information>
+    <AID>2528</AID>
+    <GI>4557365</GI>
+    <GeneID>641</GeneID>
+    <ProteinName>Bloom syndrome protein isoform 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>BLM</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>2546</AID>
+    <GI>188536040</GI>
+    <GeneID>19885</GeneID>
+    <ProteinName>nuclear receptor ROR-gamma isoform 1 [Mus musculus]</ProteinName>
+    <GeneSymbol>Rorc</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>2549</AID>
+    <GI>282403581</GI>
+    <ProteinName>Chain A, Structure Of Human Recq-like Helicase In Complex With A Dna Substrate</ProteinName>
+  </Information>
+  <Information>
+    <AID>2551</AID>
+    <GI>188536040</GI>
+    <GeneID>19885</GeneID>
+    <ProteinName>nuclear receptor ROR-gamma isoform 1 [Mus musculus]</ProteinName>
+    <GeneSymbol>Rorc</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>2662</AID>
+    <GI>56550039</GI>
+    <GeneID>4297</GeneID>
+    <ProteinName>histone-lysine N-methyltransferase 2A isoform 2 precursor [Homo sapiens]</ProteinName>
+    <GeneSymbol>KMT2A</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>2675</AID>
+    <GI>41281591</GI>
+    <GeneID>4154</GeneID>
+    <ProteinName>muscleblind-like protein 1 isoform a [Homo sapiens]</ProteinName>
+    <GeneSymbol>MBNL1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>2676</AID>
+    <GI>85986601</GI>
+    <GeneID>59350</GeneID>
+    <ProteinName>relaxin receptor 1 isoform 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>RXFP1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>411</AID>
+    <GI>160794</GI>
+    <ProteinName>Luciferase [Photinus pyralis]</ProteinName>
+  </Information>
+  <Information>
+    <AID>463254</AID>
+    <GI>188528692</GI>
+    <GeneID>9099</GeneID>
+    <ProteinName>ubiquitin carboxyl-terminal hydrolase 2 isoform a [Homo sapiens]</ProteinName>
+    <GeneSymbol>USP2</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>485281</AID>
+    <GI>254220970</GI>
+    <ProteinName>Chain A, Horse Spleen Apoferritin</ProteinName>
+  </Information>
+  <Information>
+    <AID>485290</AID>
+    <GI>20150581</GI>
+    <ProteinName>Chain A, Crystal Structure Of Human Tyrosyl-Dna Phosphodiesterase (Tdp1)</ProteinName>
+  </Information>
+  <Information>
+    <AID>485294</AID>
+    <GI>119389684</GI>
+    <ProteinName>Chain A, Ampc Beta-Lactamase In Complex With 4-Methanesulfonylamino Benzoic Acid</ProteinName>
+  </Information>
+  <Information>
+    <AID>485297</AID>
+    <GI>4759012</GI>
+    <GeneID>9367</GeneID>
+    <ProteinName>ras-related protein Rab-9A [Homo sapiens]</ProteinName>
+    <GeneSymbol>RAB9A</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>485313</AID>
+    <GI>255652944</GI>
+    <GeneID>4864</GeneID>
+    <ProteinName>Niemann-Pick C1 protein precursor [Homo sapiens]</ProteinName>
+    <GeneSymbol>NPC1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>485314</AID>
+    <GI>4505931</GI>
+    <GeneID>5423</GeneID>
+    <ProteinName>DNA polymerase beta [Homo sapiens]</ProteinName>
+    <GeneSymbol>POLB</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>485341</AID>
+    <GI>119389684</GI>
+    <ProteinName>Chain A, Ampc Beta-Lactamase In Complex With 4-Methanesulfonylamino Benzoic Acid</ProteinName>
+  </Information>
+  <Information>
+    <AID>485349</AID>
+    <GI>71902540</GI>
+    <GeneID>472</GeneID>
+    <ProteinName>serine-protein kinase ATM [Homo sapiens]</ProteinName>
+    <GeneSymbol>ATM</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>485353</AID>
+    <GI>30124074</GI>
+    <GeneID>1489680</GeneID>
+    <ProteinName>orf1ab polyprotein (pp1ab) [SARS coronavirus]</ProteinName>
+    <GeneSymbol>orf1ab</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>485360</AID>
+    <GI>117938328</GI>
+    <GeneID>26013</GeneID>
+    <ProteinName>lethal(3)malignant brain tumor-like protein 1 isoform I [Homo sapiens]</ProteinName>
+    <GeneSymbol>L3MBTL1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>485364</AID>
+    <GI>15149312</GI>
+    <GeneID>8345881</GeneID>
+    <ProteinName>thioredoxin glutathione reductase [Schistosoma mansoni]</ProteinName>
+    <GeneSymbol>Smp_048430</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>485367</AID>
+    <GI>72386991</GI>
+    <GeneID>3656265</GeneID>
+    <ProteinName>ATP-dependent phosphofructokinase [Trypanosoma brucei brucei TREU927]</ProteinName>
+    <GeneSymbol>Tb927.3.3270</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>492947</AID>
+    <GI>4501969</GI>
+    <GeneID>154</GeneID>
+    <ProteinName>beta-2 adrenergic receptor [Homo sapiens]</ProteinName>
+    <GeneSymbol>ADRB2</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>493208</AID>
+    <GI>4826730</GI>
+    <GeneID>2475</GeneID>
+    <ProteinName>serine/threonine-protein kinase mTOR [Homo sapiens]</ProteinName>
+    <GeneSymbol>MTOR</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>504327</AID>
+    <GI>153791535</GI>
+    <GeneID>2648</GeneID>
+    <ProteinName>histone acetyltransferase KAT2A [Homo sapiens]</ProteinName>
+    <GeneSymbol>KAT2A</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>504332</AID>
+    <GI>168985070</GI>
+    <ProteinName>euchromatic histone-lysine N-methyltransferase 2 [Homo sapiens]</ProteinName>
+  </Information>
+  <Information>
+    <AID>504333</AID>
+    <GI>6683500</GI>
+    <GeneID>29994</GeneID>
+    <ProteinName>bromodomain adjacent to zinc finger domain 2B [Homo sapiens]</ProteinName>
+    <GeneSymbol>BAZ2B</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>504339</AID>
+    <GI>162330054</GI>
+    <ProteinName>Chain A, Jmjd2a Tandem Tudor Domains In Complex With A Trimethylated Histone H4-K20 Peptide</ProteinName>
+  </Information>
+  <Information>
+    <AID>504444</AID>
+    <GI>224028257</GI>
+    <GeneID>4780</GeneID>
+    <ProteinName>nuclear factor erythroid 2-related factor 2 isoform 2 [Homo sapiens]</ProteinName>
+    <GeneSymbol>NFE2L2</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>504466</AID>
+    <GI>116283940</GI>
+    <GeneID>79915</GeneID>
+    <ProteinName>ATAD5 protein, partial [Homo sapiens]</ProteinName>
+    <GeneSymbol>ATAD5</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>504467</AID>
+    <GI>116283940</GI>
+    <GeneID>79915</GeneID>
+    <ProteinName>ATAD5 protein, partial [Homo sapiens]</ProteinName>
+    <GeneSymbol>ATAD5</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>504706</AID>
+    <GI>23491729</GI>
+    <GeneID>7157</GeneID>
+    <ProteinName>P53 [Homo sapiens]</ProteinName>
+    <GeneSymbol>TP53</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>504842</AID>
+    <GI>4090929</GI>
+    <GeneID>10576</GeneID>
+    <ProteinName>chaperonin-containing TCP-1 beta subunit homolog [Homo sapiens]</ProteinName>
+    <GeneSymbol>CCT2</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>504845</AID>
+    <GI>86301163</GI>
+    <GeneID>5999</GeneID>
+    <ProteinName>regulator of G-protein signaling 4 [Homo sapiens]</ProteinName>
+    <GeneSymbol>RGS4</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>504847</AID>
+    <GI>63054845</GI>
+    <GeneID>7421</GeneID>
+    <ProteinName>vitamin D3 receptor isoform VDRA [Homo sapiens]</ProteinName>
+    <GeneSymbol>VDR</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>504891</AID>
+    <GI>5453898</GI>
+    <GeneID>5300</GeneID>
+    <ProteinName>peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>PIN1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>540276</AID>
+    <GI>420597</GI>
+    <ProteinName>gene 4 small orf - Marburg virus</ProteinName>
+  </Information>
+  <Information>
+    <AID>540317</AID>
+    <GI>187960037</GI>
+    <GeneID>10951</GeneID>
+    <ProteinName>chromobox protein homolog 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>CBX1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>588342</AID>
+    <GI>160794</GI>
+    <ProteinName>Luciferase [Photinus pyralis]</ProteinName>
+  </Information>
+  <Information>
+    <AID>588453</AID>
+    <GI>8659577</GI>
+    <GeneID>58819</GeneID>
+    <ProteinName>thioredoxin reductase [Rattus norvegicus]</ProteinName>
+    <GeneSymbol>Txnrd1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>588456</AID>
+    <GI>8659577</GI>
+    <GeneID>58819</GeneID>
+    <ProteinName>thioredoxin reductase [Rattus norvegicus]</ProteinName>
+    <GeneSymbol>Txnrd1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>588579</AID>
+    <GI>7705344</GI>
+    <GeneID>51426</GeneID>
+    <ProteinName>DNA polymerase kappa isoform 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>POLK</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>588590</AID>
+    <GI>154350220</GI>
+    <GeneID>11201</GeneID>
+    <ProteinName>DNA polymerase iota [Homo sapiens]</ProteinName>
+    <GeneSymbol>POLI</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>588591</AID>
+    <GI>5729982</GI>
+    <GeneID>5429</GeneID>
+    <ProteinName>DNA polymerase eta isoform 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>POLH</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>588795</AID>
+    <GI>4758356</GI>
+    <GeneID>2237</GeneID>
+    <ProteinName>flap endonuclease 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>FEN1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>588855</AID>
+    <GI>18418623</GI>
+    <GeneID>4088</GeneID>
+    <ProteinName>Smad3 [Homo sapiens]</ProteinName>
+    <GeneSymbol>SMAD3</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>602179</AID>
+    <GI>89573979</GI>
+    <GeneID>3417</GeneID>
+    <ProteinName>isocitrate dehydrogenase 1, partial [Homo sapiens]</ProteinName>
+    <GeneSymbol>IDH1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>602233</AID>
+    <GI>115503961</GI>
+    <GeneID>4357161</GeneID>
+    <ProteinName>phosphoglycerate kinase [Trypanosoma brucei brucei TREU927]</ProteinName>
+    <GeneSymbol>PGKC</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>602310</AID>
+    <GI>13399304</GI>
+    <GeneID>60489</GeneID>
+    <ProteinName>DNA dC-&gt;dU-editing enzyme APOBEC-3G [Homo sapiens]</ProteinName>
+    <GeneSymbol>APOBEC3G</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>602313</AID>
+    <GI>22907044</GI>
+    <GeneID>200316</GeneID>
+    <ProteinName>DNA dC-&gt;dU-editing enzyme APOBEC-3F isoform a [Homo sapiens]</ProteinName>
+    <GeneSymbol>APOBEC3F</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>602332</AID>
+    <GI>168984549</GI>
+    <ProteinName>heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Homo sapiens]</ProteinName>
+  </Information>
+  <Information>
+    <AID>624170</AID>
+    <GI>71051501</GI>
+    <GeneID>2744</GeneID>
+    <ProteinName>GLS protein [Homo sapiens]</ProteinName>
+    <GeneSymbol>GLS</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>624171</AID>
+    <GI>693842</GI>
+    <GeneID>4780</GeneID>
+    <ProteinName>Nrf2 [Homo sapiens]</ProteinName>
+    <GeneSymbol>NFE2L2</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>624173</AID>
+    <GI>62359610</GI>
+    <ProteinName>hypothetical protein, conserved [Trypanosoma brucei]</ProteinName>
+  </Information>
+  <Information>
+    <AID>624202</AID>
+    <GI>1698399</GI>
+    <GeneID>672</GeneID>
+    <ProteinName>BRCA1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>BRCA1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>624246</AID>
+    <GI>343478176</GI>
+    <GeneID>2078</GeneID>
+    <ProteinName>transcriptional regulator ERG isoform 3 [Homo sapiens]</ProteinName>
+    <GeneSymbol>ERG</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>624287</AID>
+    <GI>52000961</GI>
+    <GeneID>2778</GeneID>
+    <ProteinName>Guanine nucleotide-binding protein G(s) subunit alpha isoforms short; Adenylate cyclase-stimulating G alpha protein</ProteinName>
+    <GeneSymbol>GNAS</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>624288</AID>
+    <GI>52000961</GI>
+    <GeneID>2778</GeneID>
+    <ProteinName>Guanine nucleotide-binding protein G(s) subunit alpha isoforms short; Adenylate cyclase-stimulating G alpha protein</ProteinName>
+    <GeneSymbol>GNAS</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>624291</AID>
+    <GI>121312</GI>
+    <GeneID>1081</GeneID>
+    <ProteinName>Glycoprotein hormones alpha chain; Anterior pituitary glycoprotein hormones common subunit alpha; Choriogonadotropin alpha chain; Chorionic gonadotrophin subunit alpha; CG-alpha; Follicle-stimulating hormone alpha chain; FSH-alpha; Follitropin alpha chain; Luteinizing hormone alpha chain; LSH-alpha; Lutropin alpha chain; Thyroid-stimulating hormone alpha chain; TSH-alpha; Thyrotropin alpha chain</ProteinName>
+    <GeneSymbol>CGA</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>624296</AID>
+    <GI>7705682</GI>
+    <GeneID>51053</GeneID>
+    <ProteinName>geminin [Homo sapiens]</ProteinName>
+    <GeneSymbol>GMNN</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>624297</AID>
+    <GI>7705682</GI>
+    <GeneID>51053</GeneID>
+    <ProteinName>geminin [Homo sapiens]</ProteinName>
+    <GeneSymbol>GMNN</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>624417</AID>
+    <GI>1724069</GI>
+    <GeneID>2740</GeneID>
+    <ProteinName>glp-1 receptor, partial [Homo sapiens]</ProteinName>
+    <GeneSymbol>GLP1R</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>651635</AID>
+    <GI>171543895</GI>
+    <GeneID>6311</GeneID>
+    <ProteinName>ataxin-2 isoform 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>ATXN2</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>651644</AID>
+    <GI>28872817</GI>
+    <GeneID>155807</GeneID>
+    <ProteinName>Vpr [Human immunodeficiency virus 1]</ProteinName>
+    <GeneSymbol>vpr</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>651768</AID>
+    <GI>3719421</GI>
+    <GeneID>7486</GeneID>
+    <ProteinName>WRN [Homo sapiens]</ProteinName>
+    <GeneSymbol>WRN</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>651965</AID>
+    <GI>2668494</GI>
+    <ProteinName>ClpP [Bacillus subtilis]</ProteinName>
+  </Information>
+  <Information>
+    <AID>652025</AID>
+    <GI>7110653</GI>
+    <GeneID>16183</GeneID>
+    <ProteinName>interleukin-2 precursor [Mus musculus]</ProteinName>
+    <GeneSymbol>Il2</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>652104</AID>
+    <GI>20140568</GI>
+    <GeneID>23435</GeneID>
+    <ProteinName>TAR DNA-binding protein 43; TDP-43</ProteinName>
+    <GeneSymbol>TARDBP</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>652105</AID>
+    <GI>18266879</GI>
+    <GeneID>5305</GeneID>
+    <ProteinName>Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha; 1-phosphatidylinositol 5-phosphate 4-kinase 2-alpha; Diphosphoinositide kinase 2-alpha; PIP5KIII; Phosphatidylinositol 5-phosphate 4-kinase type II alpha; PI(5)P 4-kinase type II alpha; PIP4KII-alpha; PtdIns(4)P-5-kinase B isoform; PtdIns(4)P-5-kinase C isoform; PtdIns(5)P-4-kinase isoform 2-alpha</ProteinName>
+    <GeneSymbol>PIP4K2A</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>652106</AID>
+    <GI>586067</GI>
+    <GeneID>6622</GeneID>
+    <ProteinName>Alpha-synuclein; Non-A beta component of AD amyloid; Non-A4 component of amyloid precursor; NACP</ProteinName>
+    <GeneSymbol>SNCA</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>686970</AID>
+    <GI>49168486</GI>
+    <GeneID>3417</GeneID>
+    <ProteinName>IDH1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>IDH1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>686978</AID>
+    <GI>79154014</GI>
+    <GeneID>55775</GeneID>
+    <ProteinName>TDP1 protein [Homo sapiens]</ProteinName>
+    <GeneSymbol>TDP1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>686979</AID>
+    <GI>79154014</GI>
+    <GeneID>55775</GeneID>
+    <ProteinName>TDP1 protein [Homo sapiens]</ProteinName>
+    <GeneSymbol>TDP1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>720504</AID>
+    <GI>21359873</GI>
+    <GeneID>5347</GeneID>
+    <ProteinName>serine/threonine-protein kinase PLK1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>PLK1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>720532</AID>
+    <GI>420597</GI>
+    <ProteinName>gene 4 small orf - Marburg virus</ProteinName>
+  </Information>
+  <Information>
+    <AID>720542</AID>
+    <GI>23496270</GI>
+    <ProteinName>apical membrane antigen 1, AMA1 [Plasmodium falciparum 3D7]</ProteinName>
+  </Information>
+  <Information>
+    <AID>720551</AID>
+    <GI>342840031</GI>
+    <GeneID>3757</GeneID>
+    <ProteinName>potassium voltage-gated channel subfamily H member 2 isoform a, partial [Homo sapiens]</ProteinName>
+    <GeneSymbol>KCNH2</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>720553</AID>
+    <GI>342840031</GI>
+    <GeneID>3757</GeneID>
+    <ProteinName>potassium voltage-gated channel subfamily H member 2 isoform a, partial [Homo sapiens]</ProteinName>
+    <GeneSymbol>KCNH2</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>720579</AID>
+    <GI>222762</GI>
+    <GeneID>3707576</GeneID>
+    <ProteinName>67.9K protein [Vaccinia virus]</ProteinName>
+    <GeneSymbol>B18R</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>720580</AID>
+    <GI>222762</GI>
+    <GeneID>3707576</GeneID>
+    <ProteinName>67.9K protein [Vaccinia virus]</ProteinName>
+    <GeneSymbol>B18R</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>720707</AID>
+    <GI>317373593</GI>
+    <GeneID>10411</GeneID>
+    <ProteinName>Rap guanine nucleotide exchange factor 3; Exchange factor directly activated by cAMP 1; Exchange protein directly activated by cAMP 1; EPAC 1; Rap1 guanine-nucleotide-exchange factor directly activated by cAMP; cAMP-regulated guanine nucleotide exchange factor I; cAMP-GEFI</ProteinName>
+    <GeneSymbol>RAPGEF3</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>720708</AID>
+    <GI>32171491</GI>
+    <GeneID>11069</GeneID>
+    <ProteinName>Rap guanine nucleotide exchange factor 4; Exchange factor directly activated by cAMP 2; Exchange protein directly activated by cAMP 2; EPAC 2; cAMP-regulated guanine nucleotide exchange factor II; cAMP-GEFII</ProteinName>
+    <GeneSymbol>RAPGEF4</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>720709</AID>
+    <GI>317373593</GI>
+    <GeneID>10411</GeneID>
+    <ProteinName>Rap guanine nucleotide exchange factor 3; Exchange factor directly activated by cAMP 1; Exchange protein directly activated by cAMP 1; EPAC 1; Rap1 guanine-nucleotide-exchange factor directly activated by cAMP; cAMP-regulated guanine nucleotide exchange factor I; cAMP-GEFI</ProteinName>
+    <GeneSymbol>RAPGEF3</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>720711</AID>
+    <GI>32171491</GI>
+    <GeneID>11069</GeneID>
+    <ProteinName>Rap guanine nucleotide exchange factor 4; Exchange factor directly activated by cAMP 2; Exchange protein directly activated by cAMP 2; EPAC 2; cAMP-regulated guanine nucleotide exchange factor II; cAMP-GEFII</ProteinName>
+    <GeneSymbol>RAPGEF4</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>743255</AID>
+    <GI>118600387</GI>
+    <GeneID>7398</GeneID>
+    <ProteinName>USP1 protein, partial [Homo sapiens]</ProteinName>
+    <GeneSymbol>USP1</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>743266</AID>
+    <GI>296080761</GI>
+    <GeneID>5745</GeneID>
+    <ProteinName>parathyroid hormone/parathyroid hormone-related peptide receptor precursor [Homo sapiens]</ProteinName>
+    <GeneSymbol>PTH1R</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>875</AID>
+    <GI>159162802</GI>
+    <ProteinName>Chain A, Solution Structure Of The Brct-C Domain From Human Brca1</ProteinName>
+  </Information>
+  <Information>
+    <AID>881</AID>
+    <GI>317373425</GI>
+    <GeneID>247</GeneID>
+    <ProteinName>Arachidonate 15-lipoxygenase B; 15-LOX-B; 15-lipoxygenase 2; 15-LOX-2; Arachidonate 15-lipoxygenase type II</ProteinName>
+    <GeneSymbol>ALOX15B</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>883</AID>
+    <GI>13699818</GI>
+    <GeneID>1559</GeneID>
+    <ProteinName>cytochrome P450 2C9 precursor [Homo sapiens]</ProteinName>
+    <GeneSymbol>CYP2C9</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>884</AID>
+    <GI>13435386</GI>
+    <GeneID>1576</GeneID>
+    <ProteinName>cytochrome P450 3A4 isoform 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>CYP3A4</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>885</AID>
+    <GI>13435386</GI>
+    <GeneID>1576</GeneID>
+    <ProteinName>cytochrome P450 3A4 isoform 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>CYP3A4</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>887</AID>
+    <GI>1832253</GI>
+    <GeneID>246</GeneID>
+    <ProteinName>15-lipoxygenase, partial [Homo sapiens]</ProteinName>
+    <GeneSymbol>ALOX15</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>891</AID>
+    <GI>40805836</GI>
+    <GeneID>1565</GeneID>
+    <ProteinName>cytochrome P450 2D6 isoform 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>CYP2D6</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>899</AID>
+    <GI>4503219</GI>
+    <GeneID>1557</GeneID>
+    <ProteinName>cytochrome P450 2C19 precursor [Homo sapiens]</ProteinName>
+    <GeneSymbol>CYP2C19</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>902</AID>
+    <GI>120407068</GI>
+    <GeneID>7157</GeneID>
+    <ProteinName>cellular tumor antigen p53 isoform a [Homo sapiens]</ProteinName>
+    <GeneSymbol>TP53</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>903</AID>
+    <GI>120407068</GI>
+    <GeneID>7157</GeneID>
+    <ProteinName>cellular tumor antigen p53 isoform a [Homo sapiens]</ProteinName>
+    <GeneSymbol>TP53</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>904</AID>
+    <GI>120407068</GI>
+    <GeneID>7157</GeneID>
+    <ProteinName>cellular tumor antigen p53 isoform a [Homo sapiens]</ProteinName>
+    <GeneSymbol>TP53</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>912</AID>
+    <GI>21392848</GI>
+    <ProteinName>lethal factor [Bacillus anthracis str. A2012]</ProteinName>
+  </Information>
+  <Information>
+    <AID>914</AID>
+    <GI>32879895</GI>
+    <GeneID>3091</GeneID>
+    <ProteinName>hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor) [Homo sapiens]</ProteinName>
+    <GeneSymbol>HIF1A</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>915</AID>
+    <GI>32879895</GI>
+    <GeneID>3091</GeneID>
+    <ProteinName>hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor) [Homo sapiens]</ProteinName>
+    <GeneSymbol>HIF1A</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>924</AID>
+    <GI>120407068</GI>
+    <GeneID>7157</GeneID>
+    <ProteinName>cellular tumor antigen p53 isoform a [Homo sapiens]</ProteinName>
+    <GeneSymbol>TP53</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>925</AID>
+    <GI>4504349</GI>
+    <GeneID>3043</GeneID>
+    <ProteinName>hemoglobin subunit beta [Homo sapiens]</ProteinName>
+    <GeneSymbol>HBB</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>926</AID>
+    <GI>38016895</GI>
+    <GeneID>7253</GeneID>
+    <ProteinName>thyroid stimulating hormone receptor [Homo sapiens]</ProteinName>
+    <GeneSymbol>TSHR</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>927</AID>
+    <GI>188528692</GI>
+    <GeneID>9099</GeneID>
+    <ProteinName>ubiquitin carboxyl-terminal hydrolase 2 isoform a [Homo sapiens]</ProteinName>
+    <GeneSymbol>USP2</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>938</AID>
+    <GI>38016895</GI>
+    <GeneID>7253</GeneID>
+    <ProteinName>thyroid stimulating hormone receptor [Homo sapiens]</ProteinName>
+    <GeneSymbol>TSHR</GeneSymbol>
+  </Information>
+  <Information>
+    <AID>995</AID>
+    <GI>66932916</GI>
+    <GeneID>5594</GeneID>
+    <ProteinName>mitogen-activated protein kinase 1 [Homo sapiens]</ProteinName>
+    <GeneSymbol>MAPK1</GeneSymbol>
+  </Information>
+</InformationList>
